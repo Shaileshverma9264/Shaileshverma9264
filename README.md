@@ -1,6 +1,5 @@
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Abhishek Rao!](https://abhishekrao.github.io)</h1> 
+### Hi there, I'm [Abhishek Rao!](https://abhishekrao.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <h3 align="center">A boy trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailesh9264&label=Profile%20views&color=129e00&style=plastic" alt="Shailesh9264" /> </p>
