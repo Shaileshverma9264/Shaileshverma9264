@@ -1,5 +1,7 @@
 
 ### Hi there, I'm [Shailesh Verma!](https://shaileshverma9264.github.io/myportfolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<br>
+This is Shailesh Verma, pursuing undergraduation in Information Technology from Babu Banarasi Das Engineering College. I am an Open Source Enthusiast ❤️ and also interested in Web Development 💻. Currently working on my Frontend && Backend-End Skills 🚀
 <h3 align="center">A boy trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailesh9264&label=Profile%20views&color=129e00&style=plastic" alt="Shailesh9264" /> </p>
