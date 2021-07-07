@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0/1600774582457?e=1628121600&v=beta&t=HN2xs8iRv7SQr4RlzzSs1KrRhnC0CpUfD1K40jqxYWc)](https://shaileshverma9264.github.io)
+
 <h1 align="center">Hi 👋, I'm Shailesh Verma</h1>
 <h3 align="center">A boy trying to Figure-Out Stuff!!</h3>
 
